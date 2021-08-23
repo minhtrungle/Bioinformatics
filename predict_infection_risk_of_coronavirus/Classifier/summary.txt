@@ -1,0 +1,44 @@
+
+ Feature: AAC | value : NoneSN: min = 0.9630 & max =  0.9921SP: min = 0.9275 & max =  0.9617ACC: min = 0.9432 & max =  0.9686MCC: min = 0.8808 & max =  0.9364
+ Feature: PseAAC | value : 1SN: min = 0.9560 & max =  1.0000SP: min = 0.9147 & max =  0.9630ACC: min = 0.9338 & max =  0.9748MCC: min = 0.8608 & max =  0.9446
+ Feature: PseAAC | value : 2SN: min = 0.9524 & max =  1.0000SP: min = 0.9144 & max =  0.9677ACC: min = 0.9338 & max =  0.9780MCC: min = 0.8562 & max =  0.9520
+ Feature: PseAAC | value : 3SN: min = 0.9368 & max =  1.0000SP: min = 0.9245 & max =  0.9680ACC: min = 0.9369 & max =  0.9748MCC: min = 0.8547 & max =  0.9437
+ Feature: PseAAC | value : 4SN: min = 0.9684 & max =  1.0000SP: min = 0.9070 & max =  0.9762ACC: min = 0.9274 & max =  0.9748MCC: min = 0.8466 & max =  0.9439
+ Feature: PseAAC | value : 5SN: min = 0.9550 & max =  1.0000SP: min = 0.9048 & max =  0.9648ACC: min = 0.9308 & max =  0.9717MCC: min = 0.8581 & max =  0.9343
+ Feature: PseAAC | value : 6SN: min = 0.9510 & max =  0.9898SP: min = 0.9286 & max =  0.9621ACC: min = 0.9432 & max =  0.9654MCC: min = 0.8739 & max =  0.9242
+ Feature: PseAAC | value : 7SN: min = 0.9515 & max =  1.0000SP: min = 0.9019 & max =  0.9704ACC: min = 0.9274 & max =  0.9779MCC: min = 0.8494 & max =  0.9531
+ Feature: PseAAC | value : 8SN: min = 0.9485 & max =  1.0000SP: min = 0.9387 & max =  0.9631ACC: min = 0.9495 & max =  0.9748MCC: min = 0.8840 & max =  0.9460
+ Feature: PseAAC | value : 9SN: min = 0.9551 & max =  1.0000SP: min = 0.9167 & max =  0.9689ACC: min = 0.9432 & max =  0.9748MCC: min = 0.8820 & max =  0.9409
+ Feature: PseAAC | value : 10SN: min = 0.9545 & max =  1.0000SP: min = 0.9190 & max =  0.9731ACC: min = 0.9369 & max =  0.9717MCC: min = 0.8673 & max =  0.9333
+ Feature: PseAAC | value : 11SN: min = 0.9333 & max =  0.9906SP: min = 0.9132 & max =  0.9818ACC: min = 0.9369 & max =  0.9811MCC: min = 0.8664 & max =  0.9558
+ Feature: PseAAC | value : 12SN: min = 0.9485 & max =  1.0000SP: min = 0.9282 & max =  0.9683ACC: min = 0.9401 & max =  0.9717MCC: min = 0.8687 & max =  0.9384
+ Feature: PseAAC | value : 13SN: min = 0.9574 & max =  0.9906SP: min = 0.9256 & max =  0.9717ACC: min = 0.9432 & max =  0.9748MCC: min = 0.8736 & max =  0.9440
+ Feature: PseAAC | value : 14SN: min = 0.9524 & max =  1.0000SP: min = 0.9128 & max =  0.9810ACC: min = 0.9308 & max =  0.9843MCC: min = 0.8515 & max =  0.9652
+ Feature: PseAAC | value : 15SN: min = 0.9474 & max =  1.0000SP: min = 0.9193 & max =  0.9633ACC: min = 0.9277 & max =  0.9716MCC: min = 0.8376 & max =  0.9378
+ Feature: PseAAC | value : 16SN: min = 0.9444 & max =  1.0000SP: min = 0.9167 & max =  0.9665ACC: min = 0.9432 & max =  0.9717MCC: min = 0.8755 & max =  0.9387
+ Feature: PseAAC | value : 17SN: min = 0.9400 & max =  0.9896SP: min = 0.9192 & max =  0.9769ACC: min = 0.9432 & max =  0.9717MCC: min = 0.8837 & max =  0.9352
+ Feature: PseAAC | value : 18SN: min = 0.9459 & max =  0.9904SP: min = 0.9358 & max =  0.9801ACC: min = 0.9432 & max =  0.9811MCC: min = 0.8775 & max =  0.9594
+ Feature: PseAAC | value : 19SN: min = 0.9592 & max =  0.9903SP: min = 0.9198 & max =  0.9767ACC: min = 0.9340 & max =  0.9779MCC: min = 0.8593 & max =  0.9500
+ Feature: PseAAC | value : 20SN: min = 0.9386 & max =  0.9905SP: min = 0.9227 & max =  0.9630ACC: min = 0.9401 & max =  0.9716MCC: min = 0.8716 & max =  0.9370
+ Feature: GGAP | value : 0SN: min = 0.9300 & max =  1.0000SP: min = 0.9223 & max =  0.9765ACC: min = 0.9338 & max =  0.9779MCC: min = 0.8601 & max =  0.9510
+ Feature: GGAP | value : 1SN: min = 0.9464 & max =  1.0000SP: min = 0.9366 & max =  0.9762ACC: min = 0.9401 & max =  0.9811MCC: min = 0.8717 & max =  0.9584
+ Feature: GGAP | value : 2SN: min = 0.9320 & max =  0.9901SP: min = 0.9224 & max =  0.9860ACC: min = 0.9274 & max =  0.9811MCC: min = 0.8278 & max =  0.9573
+ Feature: GGAP | value : 3SN: min = 0.9528 & max =  1.0000SP: min = 0.9238 & max =  0.9778ACC: min = 0.9464 & max =  0.9779MCC: min = 0.8845 & max =  0.9472
+ Feature: GGAP | value : 4SN: min = 0.9579 & max =  1.0000SP: min = 0.9369 & max =  0.9906ACC: min = 0.9432 & max =  0.9811MCC: min = 0.8710 & max =  0.9582
+ Feature: GGAP | value : 5SN: min = 0.9697 & max =  1.0000SP: min = 0.9254 & max =  0.9818ACC: min = 0.9432 & max =  0.9842MCC: min = 0.8765 & max =  0.9634
+ Feature: GGAP | value : 6SN: min = 0.9592 & max =  0.9909SP: min = 0.9238 & max =  0.9727ACC: min = 0.9401 & max =  0.9780MCC: min = 0.8664 & max =  0.9524
+ Feature: GGAP | value : 7SN: min = 0.9630 & max =  0.9905SP: min = 0.9384 & max =  0.9696ACC: min = 0.9495 & max =  0.9717MCC: min = 0.8914 & max =  0.9312
+ Feature: GGAP | value : 8SN: min = 0.9540 & max =  0.9907SP: min = 0.9296 & max =  0.9712ACC: min = 0.9497 & max =  0.9748MCC: min = 0.8889 & max =  0.9449
+ Feature: GGAP | value : 9SN: min = 0.9302 & max =  0.9902SP: min = 0.9130 & max =  0.9680ACC: min = 0.9369 & max =  0.9717MCC: min = 0.8704 & max =  0.9408
+ Feature: GGAP | value : 10SN: min = 0.9524 & max =  1.0000SP: min = 0.9099 & max =  0.9764ACC: min = 0.9245 & max =  0.9842MCC: min = 0.8271 & max =  0.9654
+ Feature: GGAP | value : 11SN: min = 0.9574 & max =  1.0000SP: min = 0.9352 & max =  0.9685ACC: min = 0.9497 & max =  0.9748MCC: min = 0.8902 & max =  0.9422
+ Feature: GGAP | value : 12SN: min = 0.9519 & max =  1.0000SP: min = 0.9324 & max =  0.9709ACC: min = 0.9464 & max =  0.9686MCC: min = 0.8869 & max =  0.9307
+ Feature: GGAP | value : 13SN: min = 0.9307 & max =  0.9907SP: min = 0.9187 & max =  0.9950ACC: min = 0.9432 & max =  0.9874MCC: min = 0.8832 & max =  0.9728
+ Feature: GGAP | value : 14SN: min = 0.9412 & max =  0.9909SP: min = 0.9256 & max =  0.9763ACC: min = 0.9369 & max =  0.9779MCC: min = 0.8525 & max =  0.9510
+ Feature: GGAP | value : 15SN: min = 0.9574 & max =  1.0000SP: min = 0.9366 & max =  0.9733ACC: min = 0.9465 & max =  0.9811MCC: min = 0.8870 & max =  0.9559
+ Feature: GGAP | value : 16SN: min = 0.9474 & max =  1.0000SP: min = 0.9289 & max =  0.9752ACC: min = 0.9401 & max =  0.9842MCC: min = 0.8582 & max =  0.9668
+ Feature: GGAP | value : 17SN: min = 0.9495 & max =  1.0000SP: min = 0.9279 & max =  0.9771ACC: min = 0.9401 & max =  0.9748MCC: min = 0.8664 & max =  0.9467
+ Feature: GGAP | value : 18SN: min = 0.9391 & max =  0.9904SP: min = 0.9276 & max =  0.9738ACC: min = 0.9432 & max =  0.9780MCC: min = 0.8775 & max =  0.9512
+ Feature: GGAP | value : 19SN: min = 0.9541 & max =  0.9905SP: min = 0.9234 & max =  0.9729ACC: min = 0.9434 & max =  0.9716MCC: min = 0.8775 & max =  0.9381
+ OverallSN: min = 0.9896 & max =  1.0000SP: min = 0.9617 & max =  0.9950ACC: min = 0.9654 & max =  0.9874MCC: min = 0.9242 & max =  0.9728
+ Feature: AAC | value : None |SN: min = 0.9630 & max =  0.9921 |SP: min = 0.9275 & max =  0.9617 |ACC: min = 0.9432 & max =  0.9686 |MCC: min = 0.8808 & max =  0.9364
