@@ -1,5 +1,5 @@
 # Bioinformatics
-1. DeepMal: Accurate prediction of protein malonylation sites by deep neural networks
+##1. DeepMal: Accurate prediction of protein malonylation sites by deep neural networks
 ##DeepMal
 
 DeepMal:Accurate prediction of protein malonylation sites by deep neural networks
@@ -21,4 +21,5 @@ keras(Machine learning library)
 **Feature extraction: EAAC.py is the implementation of enhanced amino acid composition. EGAAC.py is the implementation of enhanced grouped amino acid composition. KNN.py is the implementation of K nearest neighbors. DDE.py is the implementation of dipeptide deviation from expected mean. BLOSUM62.py is the implementation of BLOSUM62 matrix.
 
 ** Classifier: DL.py is the implementation of DL. DL_1.py is the implementation of DL_1. DNN.py is the implementation of Deep neural network. GRU.py is the implementation of Recurrent neural network. XGBoost_classifier.py is the implementation of XGBoost. SVM_classifier.py is the implementation of SVM.
-2. 
+
+##2. 
