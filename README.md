@@ -8,12 +8,12 @@ DeepMal:Accurate prediction of protein malonylation sites by deep neural network
 
 ###DeepMal uses the following dependencies:
 
-MATLAB2014a
-python 3.6
-numpy
-scipy
-scikit-learn (Deep learning library)
-keras(Machine learning library)
+*MATLAB2014a
+*python 3.6
+*numpy
+*scipy
+*scikit-learn (Deep learning library)
+*keras(Machine learning library)
 ###Guiding principles:
 
 **The data contains training dataset and testing dataset. Training dataset includes ecoli_train,H_train and mus_train Testing dataset includes ecoli_test,H_test and mus_test
@@ -22,4 +22,6 @@ keras(Machine learning library)
 
 ** Classifier: DL.py is the implementation of DL. DL_1.py is the implementation of DL_1. DNN.py is the implementation of Deep neural network. GRU.py is the implementation of Recurrent neural network. XGBoost_classifier.py is the implementation of XGBoost. SVM_classifier.py is the implementation of SVM.
 
-##2. 
+##2.predict_infection_risk_of_coronavirus
+##Using the spike protein feature to predict infection risk and monitor the evolutionary dynamic of coronavirus
+
