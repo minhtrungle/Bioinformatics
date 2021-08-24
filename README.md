@@ -72,7 +72,7 @@ a.	Thư mục “predict_infection_risk_of_coronavirus”: sử dụng trích xu
 •	“dev.fasta” chứa dữ liệu về chuỗi protein nhưng với số lượng ít hơn để thuận tiện cho quá trình xây dựng chương trình (giảm thời gian chạy chương trình).
 
 -	Thư mục “Classifier” chứa một số file chính:
--	
+	
 •	“random_forest_0.9873817034700315.joblib”: chứa dữ liệu về mô hình rừng ngẫu nhiên.
 
 •	“readFasta.py” chương trình python sử dụng để đọc chuỗi file định dạng fasta trả về mảng chứa list có 2 thông tin là tên protein và dữ liệu chuỗi protein.
