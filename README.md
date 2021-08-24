@@ -56,7 +56,7 @@
 a.	Thư mục “predict_infection_risk_of_coronavirus”: sử dụng trích xuất đặc trưng AAC, PseAAC và GGAP
 
 -	Thư mục “FeatureExtraction” chứa chương trình để biểu diễn đặc trưng tương ứng với tên thư mục AAC, PseAAC và GGAP. Mỗi thư mục đều có:
--	
+	
 •	“tên file trùng tên thư mục. py”: chương trình python để trích xuất đặc trưng
 
 •	“tên file trùng tên thư mục_data.csv”: chứa dữ liệu về đặc trưng sau khi trích xuất.
