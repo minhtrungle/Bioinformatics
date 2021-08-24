@@ -31,7 +31,7 @@
 
      Chương trình được thử nghiệm trên môi trường Google Colab. Đây là một môi trường notebook Jupyter được host, sử dụng miễn phí và không cần thiết lập trên Google. Với cấu hình như sau:
      
-•	CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz 
+•	CPU: Intel(R) Core(TM) CPU @ 2.30GHz 
 
 •	RAM: 8 GB
 
